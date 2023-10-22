@@ -1,0 +1,185 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Public\Documents\Altium\First_Try\First_Try\PCB1.PcbDoc
+Date     : 2023/10/21
+Time     : 10:23:51
+
+Processing Rule : Clearance Constraint (Gap=3.937mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=5mil) (IsStitchingVia and InNet('No Net')),((IsVia and (Not IsStitchingVia)) Or IsPad)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=3.5mil) (Max=100mil) (Preferred=5mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=5mil) (Conductor Width=5mil) (Air Gap=5mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=5.906mil) (All)
+   Violation between Minimum Annular Ring: (4.921mil < 5.906mil) Via (1005mil,-485mil) from Top Layer to Bottom Layer (Annular Ring=4.921mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (4.921mil < 5.906mil) Via (1005mil,-515mil) from Top Layer to Bottom Layer (Annular Ring=4.921mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (4.921mil < 5.906mil) Via (1150mil,-865mil) from Top Layer to Bottom Layer (Annular Ring=4.921mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (4.921mil < 5.906mil) Via (1150mil,-905mil) from Top Layer to Bottom Layer (Annular Ring=4.921mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (4.921mil < 5.906mil) Via (1195mil,-805mil) from Top Layer to Bottom Layer (Annular Ring=4.921mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (4.921mil < 5.906mil) Via (1280mil,-235mil) from Top Layer to Bottom Layer (Annular Ring=4.921mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (4.921mil < 5.906mil) Via (1290mil,-545mil) from Top Layer to Bottom Layer (Annular Ring=4.921mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (4.921mil < 5.906mil) Via (1290mil,-600mil) from Top Layer to Bottom Layer (Annular Ring=4.921mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (4.921mil < 5.906mil) Via (1375mil,-760mil) from Top Layer to Bottom Layer (Annular Ring=4.921mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (4.921mil < 5.906mil) Via (255mil,-645mil) from Top Layer to Bottom Layer (Annular Ring=4.921mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (4.921mil < 5.906mil) Via (310mil,-760mil) from Top Layer to Bottom Layer (Annular Ring=4.921mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (4.921mil < 5.906mil) Via (430mil,-830mil) from Top Layer to Bottom Layer (Annular Ring=4.921mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (4.921mil < 5.906mil) Via (450mil,-515mil) from Top Layer to Bottom Layer (Annular Ring=4.921mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (4.921mil < 5.906mil) Via (460mil,-120mil) from Top Layer to Bottom Layer (Annular Ring=4.921mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (4.921mil < 5.906mil) Via (510mil,-735mil) from Top Layer to Bottom Layer (Annular Ring=4.921mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (4.921mil < 5.906mil) Via (515mil,-879.105mil) from Top Layer to Bottom Layer (Annular Ring=4.921mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (4.921mil < 5.906mil) Via (566.225mil,-470.928mil) from Top Layer to Bottom Layer (Annular Ring=4.921mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (4.921mil < 5.906mil) Via (600mil,-620mil) from Top Layer to Bottom Layer (Annular Ring=4.921mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (4.921mil < 5.906mil) Via (605mil,-530mil) from Top Layer to Bottom Layer (Annular Ring=4.921mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (4.921mil < 5.906mil) Via (605mil,-720mil) from Top Layer to Bottom Layer (Annular Ring=4.921mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (4.921mil < 5.906mil) Via (635mil,-415mil) from Top Layer to Bottom Layer (Annular Ring=4.921mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (4.921mil < 5.906mil) Via (650mil,-780mil) from Top Layer to Bottom Layer (Annular Ring=4.921mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (4.921mil < 5.906mil) Via (665mil,-825mil) from Top Layer to Bottom Layer (Annular Ring=4.921mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (4.921mil < 5.906mil) Via (695mil,-375mil) from Top Layer to Bottom Layer (Annular Ring=4.921mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (4.921mil < 5.906mil) Via (710mil,-780mil) from Top Layer to Bottom Layer (Annular Ring=4.921mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (4.921mil < 5.906mil) Via (750mil,-780mil) from Top Layer to Bottom Layer (Annular Ring=4.921mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (4.921mil < 5.906mil) Via (760mil,-850mil) from Top Layer to Bottom Layer (Annular Ring=4.921mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (4.921mil < 5.906mil) Via (865mil,-850mil) from Top Layer to Bottom Layer (Annular Ring=4.921mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (4.921mil < 5.906mil) Via (875mil,-240mil) from Top Layer to Bottom Layer (Annular Ring=4.921mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (4.921mil < 5.906mil) Via (920mil,-805mil) from Top Layer to Bottom Layer (Annular Ring=4.921mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (4.921mil < 5.906mil) Via (950mil,-700mil) from Top Layer to Bottom Layer (Annular Ring=4.921mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (3.937mil < 5.906mil) Via (960mil,-620mil) from Top Layer to Bottom Layer (Annular Ring=3.937mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (4.921mil < 5.906mil) Via (990mil,-205mil) from Top Layer to Bottom Layer (Annular Ring=4.921mil) On (Top Layer)
+Rule Violations :33
+
+Processing Rule : Hole Size Constraint (Min=7.874mil) (Max=248.031mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=3.937mil) (All),(All)
+   Violation between Minimum Solder Mask Sliver Constraint: (1.842mil < 3.937mil) Between Pad U1-1(643.071mil,-502.559mil) on Top Layer And Pad U1-2(643.071mil,-522.244mil) on Top Layer [Top Solder] Mask Sliver [1.842mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.037mil < 3.937mil) Between Pad U1-1(643.071mil,-502.559mil) on Top Layer And Pad U1-48(670.63mil,-475mil) on Top Layer [Top Solder] Mask Sliver [3.037mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.842mil < 3.937mil) Between Pad U1-10(643.071mil,-679.724mil) on Top Layer And Pad U1-11(643.071mil,-699.409mil) on Top Layer [Top Solder] Mask Sliver [1.842mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.842mil < 3.937mil) Between Pad U1-10(643.071mil,-679.724mil) on Top Layer And Pad U1-9(643.071mil,-660.039mil) on Top Layer [Top Solder] Mask Sliver [1.842mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 3.937mil) Between Pad U1-11(643.071mil,-699.409mil) on Top Layer And Pad U1-12(643.071mil,-719.095mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.037mil < 3.937mil) Between Pad U1-12(643.071mil,-719.095mil) on Top Layer And Pad U1-13(670.63mil,-746.654mil) on Top Layer [Top Solder] Mask Sliver [3.037mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.842mil < 3.937mil) Between Pad U1-13(670.63mil,-746.654mil) on Top Layer And Pad U1-14(690.315mil,-746.654mil) on Top Layer [Top Solder] Mask Sliver [1.842mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.842mil < 3.937mil) Between Pad U1-14(690.315mil,-746.654mil) on Top Layer And Pad U1-15(710mil,-746.654mil) on Top Layer [Top Solder] Mask Sliver [1.842mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 3.937mil) Between Pad U1-15(710mil,-746.654mil) on Top Layer And Pad U1-16(729.685mil,-746.654mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.842mil < 3.937mil) Between Pad U1-16(729.685mil,-746.654mil) on Top Layer And Pad U1-17(749.37mil,-746.654mil) on Top Layer [Top Solder] Mask Sliver [1.842mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 3.937mil) Between Pad U1-17(749.37mil,-746.654mil) on Top Layer And Pad U1-18(769.055mil,-746.654mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.842mil < 3.937mil) Between Pad U1-18(769.055mil,-746.654mil) on Top Layer And Pad U1-19(788.74mil,-746.654mil) on Top Layer [Top Solder] Mask Sliver [1.842mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.842mil < 3.937mil) Between Pad U1-19(788.74mil,-746.654mil) on Top Layer And Pad U1-20(808.425mil,-746.654mil) on Top Layer [Top Solder] Mask Sliver [1.842mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.842mil < 3.937mil) Between Pad U1-2(643.071mil,-522.244mil) on Top Layer And Pad U1-3(643.071mil,-541.929mil) on Top Layer [Top Solder] Mask Sliver [1.842mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 3.937mil) Between Pad U1-20(808.425mil,-746.654mil) on Top Layer And Pad U1-21(828.11mil,-746.654mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.842mil < 3.937mil) Between Pad U1-21(828.11mil,-746.654mil) on Top Layer And Pad U1-22(847.795mil,-746.654mil) on Top Layer [Top Solder] Mask Sliver [1.842mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.842mil < 3.937mil) Between Pad U1-22(847.795mil,-746.654mil) on Top Layer And Pad U1-23(867.48mil,-746.654mil) on Top Layer [Top Solder] Mask Sliver [1.842mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 3.937mil) Between Pad U1-23(867.48mil,-746.654mil) on Top Layer And Pad U1-24(887.165mil,-746.654mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.037mil < 3.937mil) Between Pad U1-24(887.165mil,-746.654mil) on Top Layer And Pad U1-25(914.724mil,-719.095mil) on Top Layer [Top Solder] Mask Sliver [3.037mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 3.937mil) Between Pad U1-25(914.724mil,-719.095mil) on Top Layer And Pad U1-26(914.724mil,-699.409mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.842mil < 3.937mil) Between Pad U1-26(914.724mil,-699.409mil) on Top Layer And Pad U1-27(914.724mil,-679.724mil) on Top Layer [Top Solder] Mask Sliver [1.842mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.842mil < 3.937mil) Between Pad U1-27(914.724mil,-679.724mil) on Top Layer And Pad U1-28(914.724mil,-660.039mil) on Top Layer [Top Solder] Mask Sliver [1.842mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 3.937mil) Between Pad U1-28(914.724mil,-660.039mil) on Top Layer And Pad U1-29(914.724mil,-640.354mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.842mil < 3.937mil) Between Pad U1-29(914.724mil,-640.354mil) on Top Layer And Pad U1-30(914.724mil,-620.669mil) on Top Layer [Top Solder] Mask Sliver [1.842mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 3.937mil) Between Pad U1-3(643.071mil,-541.929mil) on Top Layer And Pad U1-4(643.071mil,-561.614mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.842mil < 3.937mil) Between Pad U1-30(914.724mil,-620.669mil) on Top Layer And Pad U1-31(914.724mil,-600.984mil) on Top Layer [Top Solder] Mask Sliver [1.842mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 3.937mil) Between Pad U1-31(914.724mil,-600.984mil) on Top Layer And Pad U1-32(914.724mil,-581.299mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.842mil < 3.937mil) Between Pad U1-32(914.724mil,-581.299mil) on Top Layer And Pad U1-33(914.724mil,-561.614mil) on Top Layer [Top Solder] Mask Sliver [1.842mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 3.937mil) Between Pad U1-33(914.724mil,-561.614mil) on Top Layer And Pad U1-34(914.724mil,-541.929mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.842mil < 3.937mil) Between Pad U1-34(914.724mil,-541.929mil) on Top Layer And Pad U1-35(914.724mil,-522.244mil) on Top Layer [Top Solder] Mask Sliver [1.842mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.842mil < 3.937mil) Between Pad U1-35(914.724mil,-522.244mil) on Top Layer And Pad U1-36(914.724mil,-502.559mil) on Top Layer [Top Solder] Mask Sliver [1.842mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.037mil < 3.937mil) Between Pad U1-36(914.724mil,-502.559mil) on Top Layer And Pad U1-37(887.165mil,-475mil) on Top Layer [Top Solder] Mask Sliver [3.037mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 3.937mil) Between Pad U1-37(887.165mil,-475mil) on Top Layer And Pad U1-38(867.48mil,-475mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.842mil < 3.937mil) Between Pad U1-38(867.48mil,-475mil) on Top Layer And Pad U1-39(847.795mil,-475mil) on Top Layer [Top Solder] Mask Sliver [1.842mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.842mil < 3.937mil) Between Pad U1-39(847.795mil,-475mil) on Top Layer And Pad U1-40(828.11mil,-475mil) on Top Layer [Top Solder] Mask Sliver [1.842mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.842mil < 3.937mil) Between Pad U1-4(643.071mil,-561.614mil) on Top Layer And Pad U1-5(643.071mil,-581.299mil) on Top Layer [Top Solder] Mask Sliver [1.842mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 3.937mil) Between Pad U1-40(828.11mil,-475mil) on Top Layer And Pad U1-41(808.425mil,-475mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.842mil < 3.937mil) Between Pad U1-41(808.425mil,-475mil) on Top Layer And Pad U1-42(788.74mil,-475mil) on Top Layer [Top Solder] Mask Sliver [1.842mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.842mil < 3.937mil) Between Pad U1-42(788.74mil,-475mil) on Top Layer And Pad U1-43(769.055mil,-475mil) on Top Layer [Top Solder] Mask Sliver [1.842mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 3.937mil) Between Pad U1-43(769.055mil,-475mil) on Top Layer And Pad U1-44(749.37mil,-475mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.842mil < 3.937mil) Between Pad U1-44(749.37mil,-475mil) on Top Layer And Pad U1-45(729.685mil,-475mil) on Top Layer [Top Solder] Mask Sliver [1.842mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 3.937mil) Between Pad U1-45(729.685mil,-475mil) on Top Layer And Pad U1-46(710mil,-475mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.842mil < 3.937mil) Between Pad U1-46(710mil,-475mil) on Top Layer And Pad U1-47(690.315mil,-475mil) on Top Layer [Top Solder] Mask Sliver [1.842mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.842mil < 3.937mil) Between Pad U1-47(690.315mil,-475mil) on Top Layer And Pad U1-48(670.63mil,-475mil) on Top Layer [Top Solder] Mask Sliver [1.842mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 3.937mil) Between Pad U1-5(643.071mil,-581.299mil) on Top Layer And Pad U1-6(643.071mil,-600.984mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.842mil < 3.937mil) Between Pad U1-6(643.071mil,-600.984mil) on Top Layer And Pad U1-7(643.071mil,-620.669mil) on Top Layer [Top Solder] Mask Sliver [1.842mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.842mil < 3.937mil) Between Pad U1-7(643.071mil,-620.669mil) on Top Layer And Pad U1-8(643.071mil,-640.354mil) on Top Layer [Top Solder] Mask Sliver [1.842mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 3.937mil) Between Pad U1-8(643.071mil,-640.354mil) on Top Layer And Pad U1-9(643.071mil,-660.039mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+Rule Violations :48
+
+Processing Rule : Silk To Solder Mask (Clearance=5.906mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=5.906mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Waived Violations Of Rule : Board Clearance Constraint (Gap=0mil) (All)
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 15.748mil) Between Board Edge And Text "J1" (608mil,253mil) on Top Overlay Waived by Likai Fu at 2023/10/20 22:16:57
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 15.748mil) Between Board Edge And Track (1363.543mil,-309.822mil)(1363.543mil,215.374mil) on Top Overlay Waived by Likai Fu at 2023/10/20 22:16:57
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 15.748mil) Between Board Edge And Track (1577.828mil,-354.364mil)(2190.24mil,-354.96mil) on Bottom Overlay Waived by Likai Fu at 2023/10/20 22:16:57
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 15.748mil) Between Board Edge And Track (1577.828mil,-794.364mil)(2190.24mil,-794.96mil) on Bottom Overlay Waived by Likai Fu at 2023/10/20 22:16:57
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 15.748mil) Between Board Edge And Track (1616.746mil,-794.396mil)(1616.746mil,-354.403mil) on Bottom Overlay Waived by Likai Fu at 2023/10/20 22:16:57
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 15.748mil) Between Board Edge And Track (1930.24mil,-414.96mil)(2030.24mil,-414.96mil) on Bottom Overlay Waived by Likai Fu at 2023/10/20 22:16:57
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 15.748mil) Between Board Edge And Track (1930.24mil,-514.96mil)(1930.24mil,-414.96mil) on Bottom Overlay Waived by Likai Fu at 2023/10/20 22:16:57
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 15.748mil) Between Board Edge And Track (1930.24mil,-514.96mil)(2030.24mil,-514.96mil) on Bottom Overlay Waived by Likai Fu at 2023/10/20 22:16:57
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 15.748mil) Between Board Edge And Track (1930.24mil,-624.96mil)(2030.24mil,-624.96mil) on Bottom Overlay Waived by Likai Fu at 2023/10/20 22:16:57
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 15.748mil) Between Board Edge And Track (1930.24mil,-724.96mil)(1930.24mil,-624.96mil) on Bottom Overlay Waived by Likai Fu at 2023/10/20 22:16:57
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 15.748mil) Between Board Edge And Track (1930.24mil,-724.96mil)(2030.24mil,-724.96mil) on Bottom Overlay Waived by Likai Fu at 2023/10/20 22:16:57
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 15.748mil) Between Board Edge And Track (2030.24mil,-514.96mil)(2030.24mil,-414.96mil) on Bottom Overlay Waived by Likai Fu at 2023/10/20 22:16:57
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 15.748mil) Between Board Edge And Track (2030.24mil,-724.96mil)(2030.24mil,-624.96mil) on Bottom Overlay Waived by Likai Fu at 2023/10/20 22:16:57
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 15.748mil) Between Board Edge And Track (2190.24mil,-794.96mil)(2190.24mil,-354.96mil) on Bottom Overlay Waived by Likai Fu at 2023/10/20 22:16:57
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 15.748mil) Between Board Edge And Track (-300.827mil,-357.402mil)(-75.433mil,-357.402mil) on Top Overlay Waived by Likai Fu at 2023/10/20 22:16:57
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 15.748mil) Between Board Edge And Track (-300.827mil,-382.598mil)(-75.433mil,-382.598mil) on Top Overlay Waived by Likai Fu at 2023/10/20 22:16:57
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 15.748mil) Between Board Edge And Track (-300.827mil,-457.402mil)(-75.433mil,-457.402mil) on Top Overlay Waived by Likai Fu at 2023/10/20 22:16:57
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 15.748mil) Between Board Edge And Track (-300.827mil,-482.598mil)(-75.433mil,-482.598mil) on Top Overlay Waived by Likai Fu at 2023/10/20 22:16:57
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 15.748mil) Between Board Edge And Track (-300.827mil,-557.402mil)(-75.433mil,-557.402mil) on Top Overlay Waived by Likai Fu at 2023/10/20 22:16:57
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 15.748mil) Between Board Edge And Track (-300.827mil,-582.598mil)(-75.433mil,-582.598mil) on Top Overlay Waived by Likai Fu at 2023/10/20 22:16:57
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 15.748mil) Between Board Edge And Track (-300.827mil,-657.402mil)(-75.433mil,-657.402mil) on Top Overlay Waived by Likai Fu at 2023/10/20 22:16:57
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 15.748mil) Between Board Edge And Track (-300.827mil,-682.598mil)(-75.433mil,-682.598mil) on Top Overlay Waived by Likai Fu at 2023/10/20 22:16:57
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 15.748mil) Between Board Edge And Track (-300.827mil,-757.402mil)(-75.433mil,-757.402mil) on Top Overlay Waived by Likai Fu at 2023/10/20 22:16:57
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 15.748mil) Between Board Edge And Track (-300.827mil,-782.598mil)(-75.433mil,-782.598mil) on Top Overlay Waived by Likai Fu at 2023/10/20 22:16:57
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 15.748mil) Between Board Edge And Track (-308.701mil,-365.276mil)(-300.827mil,-357.402mil) on Top Overlay Waived by Likai Fu at 2023/10/20 22:16:57
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 15.748mil) Between Board Edge And Track (-308.701mil,-374.724mil)(-300.827mil,-382.598mil) on Top Overlay Waived by Likai Fu at 2023/10/20 22:16:57
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 15.748mil) Between Board Edge And Track (-308.701mil,-374.724mil)(-308.701mil,-365.276mil) on Top Overlay Waived by Likai Fu at 2023/10/20 22:16:57
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 15.748mil) Between Board Edge And Track (-308.701mil,-465.276mil)(-300.827mil,-457.402mil) on Top Overlay Waived by Likai Fu at 2023/10/20 22:16:57
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 15.748mil) Between Board Edge And Track (-308.701mil,-474.724mil)(-300.827mil,-482.598mil) on Top Overlay Waived by Likai Fu at 2023/10/20 22:16:57
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 15.748mil) Between Board Edge And Track (-308.701mil,-474.724mil)(-308.701mil,-465.276mil) on Top Overlay Waived by Likai Fu at 2023/10/20 22:16:57
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 15.748mil) Between Board Edge And Track (-308.701mil,-565.276mil)(-300.827mil,-557.402mil) on Top Overlay Waived by Likai Fu at 2023/10/20 22:16:57
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 15.748mil) Between Board Edge And Track (-308.701mil,-574.724mil)(-300.827mil,-582.598mil) on Top Overlay Waived by Likai Fu at 2023/10/20 22:16:57
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 15.748mil) Between Board Edge And Track (-308.701mil,-574.724mil)(-308.701mil,-565.276mil) on Top Overlay Waived by Likai Fu at 2023/10/20 22:16:57
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 15.748mil) Between Board Edge And Track (-308.701mil,-665.276mil)(-300.827mil,-657.402mil) on Top Overlay Waived by Likai Fu at 2023/10/20 22:16:57
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 15.748mil) Between Board Edge And Track (-308.701mil,-674.724mil)(-300.827mil,-682.598mil) on Top Overlay Waived by Likai Fu at 2023/10/20 22:16:57
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 15.748mil) Between Board Edge And Track (-308.701mil,-674.724mil)(-308.701mil,-665.276mil) on Top Overlay Waived by Likai Fu at 2023/10/20 22:16:57
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 15.748mil) Between Board Edge And Track (-308.701mil,-765.276mil)(-300.827mil,-757.402mil) on Top Overlay Waived by Likai Fu at 2023/10/20 22:16:57
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 15.748mil) Between Board Edge And Track (-308.701mil,-774.724mil)(-300.827mil,-782.598mil) on Top Overlay Waived by Likai Fu at 2023/10/20 22:16:57
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 15.748mil) Between Board Edge And Track (-308.701mil,-774.724mil)(-308.701mil,-765.276mil) on Top Overlay Waived by Likai Fu at 2023/10/20 22:16:57
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 15.748mil) Between Board Edge And Track (623.78mil,215.374mil)(1363.543mil,215.374mil) on Top Overlay Waived by Likai Fu at 2023/10/20 22:16:57
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 15.748mil) Between Board Edge And Track (623.78mil,-309.822mil)(623.78mil,215.374mil) on Top Overlay Waived by Likai Fu at 2023/10/20 22:16:57
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 15.748mil) Between Board Edge And Track (-75.433mil,-314.094mil)(30.473mil,-314.094mil) on Top Overlay Waived by Likai Fu at 2023/10/20 22:16:57
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 15.748mil) Between Board Edge And Track (-75.433mil,-825.905mil)(30.473mil,-825.905mil) on Top Overlay Waived by Likai Fu at 2023/10/20 22:16:57
+   Waived Violation between Board Outline Clearance(Outline Edge): (Collision < 15.748mil) Between Board Edge And Track (-75.433mil,-825.905mil)(-75.433mil,-314.094mil) on Top Overlay Waived by Likai Fu at 2023/10/20 22:16:57
+Waived Violations :44
+
+
+Violations Detected : 81
+Waived Violations : 44
+Time Elapsed        : 00:00:02

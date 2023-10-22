@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=VBUS_FB Pin=J2-1
+Removed Pin From Net: NetName=USB_CONN_N Pin=J2-2
+Removed Pin From Net: NetName=USB_CONN_P Pin=J2-3
+Removed Pin From Net: NetName=GND Pin=J2-4
+Removed Pin From Net: NetName=GND Pin=J2-5
+Removed Pin From Net: NetName=GND Pin=J2-6
+Change Component Comment : Designator=R13 Old Comment=22Ω  New Comment=22Ω
+Change Component Comment : Designator=R14 Old Comment=22Ω  New Comment=22Ω
+Added Component: Designator=USB1(USB-A-SMD_U217-041N-4BV81)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Type-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "黄铜"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "金"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating - Power (Max)"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20211015/D42E73CBE112FBE216C7DAC502068881.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "U217-041N-4BV81"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "公头"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "Type-A 公头 沉板"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XKB Connectivity(中国星坤)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "U217-041N-4BV81"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "沉板"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "U217-041N-4BV81"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "4P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Ports"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-40℃~+85℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard"; Value = "USB 2.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C319178"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "U217-04XN-XXR84"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Welding Temperature (Max)"; Value = "-"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBUS_FB Pin=USB1-1
+Added Pin To Net: NetName=USB_CONN_N Pin=USB1-2
+Added Pin To Net: NetName=USB_CONN_P Pin=USB1-3
+Added Pin To Net: NetName=GND Pin=USB1-4
+Added Pin To Net: NetName=GND Pin=USB1-5
+Added Pin To Net: NetName=GND Pin=USB1-6
+Added Member To Class: ClassName=Sheet1 Member=Component USB1 U217-041N-4BV81

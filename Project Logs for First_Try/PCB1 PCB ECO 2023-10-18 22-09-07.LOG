@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=TCK_SWCLK_CONN Pin=P1-5
+Removed Pin From Net: NetName=UART2_TX Pin=P1-8
+Removed Pin From Net: NetName=UART2_RX Pin=P1-10
+Removed Pin From Net: NetName=TCK_SWCLK_CONN Pin=R9-2
+Added Pin To Net: NetName=UART2_RX Pin=P1-8
+Added Pin To Net: NetName=UART2_TX Pin=P1-10
+Added Pin To Net: NetName=TMS_SWDIO_CONN Pin=P1-5
+Added Pin To Net: NetName=TMS_SWDIO_CONN Pin=R9-2
+Added Net: Name=TMS_SWDIO_CONN
+Added Member To Class: ClassName=Sheet1 Member=Component C2 1uF
+Added Member To Class: ClassName=Sheet1 Member=Component FB1 600¦¸@100MHz

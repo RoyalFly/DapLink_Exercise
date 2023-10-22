@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=USB_CONN_N Pin=R12-1
+Removed Pin From Net: NetName=USB_CONN_N Pin=U1-32
+Removed Pin From Net: NetName=USB_CONN_P Pin=U1-33
+Added Component: Designator=R13(0402_R)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_25835.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C25092"; VariantName = "[No Variations]"
+Added Component: Designator=R14(0402_R)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_25835.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C25092"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=USB_CONN_P Pin=R13-1
+Added Pin To Net: NetName=USB_CONN_N Pin=R14-1
+Added Pin To Net: NetName=USB_N Pin=R12-1
+Added Pin To Net: NetName=USB_N Pin=R14-2
+Added Pin To Net: NetName=USB_N Pin=U1-32
+Added Net: Name=USB_N
+Added Pin To Net: NetName=USB_P Pin=R13-2
+Added Pin To Net: NetName=USB_P Pin=U1-33
+Added Net: Name=USB_P
+Added Differential Pair: Name=USB
+Added Member To Class: ClassName=Sheet1 Member=Component R13 22Ω 
+Added Member To Class: ClassName=Sheet1 Member=Component R14 22Ω 

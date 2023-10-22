@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=C1 Old Footprint=FP-CL21-IPC_A New Footprint=0603_C
+Change Component Comment : Designator=C1 Old Comment=10μF New Comment=10uF 
+Change Managed Component Library Link : Designator=C1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=04A370AA-3876-4B91-B00A-5F0EAE7775EC New ItemGUID= Old RevisionGUID=A5DEF9B9-FA5A-4B29-91B4-896BBB56E744 New RevisionGUID=
+Change component parameters: Designator = "C1" ("C1"); Footprint = "FP-CL21-IPC_A"; UniqueID = "\TGHFGIHG" ("\TGHFGIHG")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_20411.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SuppliersPartNumber"; Value = "C19702"; VariantName = "[No Variations]"
